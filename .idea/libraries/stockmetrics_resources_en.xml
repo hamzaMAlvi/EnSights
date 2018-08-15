@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="stockmetrics_resources_en">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/stockmetrics_resources_en.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

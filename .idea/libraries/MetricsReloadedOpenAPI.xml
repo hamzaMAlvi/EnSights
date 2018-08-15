@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="MetricsReloadedOpenAPI">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/MetricsReloadedOpenAPI.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
